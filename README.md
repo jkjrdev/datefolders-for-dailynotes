@@ -1,3 +1,13 @@
+# Special Note:
+
+This plugin is deprecated. The main functionality exists within Obsidian itself. 
+
+You can read about it here: https://publish.obsidian.md/jeffslink/reference/Obsidian/Organize+Daily+Notes
+
+
+
+
+
 # DateFolders for DailyNotes v1.0.0
 
 A minimal Obsidian plugin for **automatic date-based folder organization** with year/month folder structure and seamless Daily Notes integration.
